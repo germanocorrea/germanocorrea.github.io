@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://germanocorrea.github.io/</loc>
-<lastmod>2015-12-25T21:29:18-00:00</lastmod>
+<lastmod>2015-12-25T21:34:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://germanocorrea.github.io/archives.html</loc>
-<lastmod>2015-12-25T21:29:18-00:00</lastmod>
+<lastmod>2015-12-25T21:34:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://germanocorrea.github.io/tags.html</loc>
-<lastmod>2015-12-25T21:29:18-00:00</lastmod>
+<lastmod>2015-12-25T21:34:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://germanocorrea.github.io/categories.html</loc>
-<lastmod>2015-12-25T21:29:18-00:00</lastmod>
+<lastmod>2015-12-25T21:34:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -67,7 +67,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://germanocorrea.github.io/tag/espaco</loc>
+<loc>https://germanocorrea.github.io/tag/espaconave</loc>
+<lastmod>2015-12-25T20:00:00-03:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://germanocorrea.github.io/tag/fisica</loc>
 <lastmod>2015-12-25T20:00:00-03:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -95,6 +102,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://germanocorrea.github.io/tag/espaco</loc>
+<lastmod>2015-12-25T20:00:00-03:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://germanocorrea.github.io/tag/ola</loc>
 <lastmod>2015-12-25T15:45:00-03:06</lastmod>
 <changefreq>daily</changefreq>
@@ -103,20 +117,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://germanocorrea.github.io/tag/star-trek</loc>
-<lastmod>2015-12-25T20:00:00-03:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://germanocorrea.github.io/tag/espaconave</loc>
-<lastmod>2015-12-25T20:00:00-03:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://germanocorrea.github.io/tag/fisica</loc>
 <lastmod>2015-12-25T20:00:00-03:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
