@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Germano Corrêa</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-12-25T13:15:00-02:00</updated><entry><title>Olá Mundo!</title><link href="/ola-mundo.html" rel="alternate"></link><updated>2015-12-25T13:15:00-02:00</updated><author><name>Germano Corrêa</name></author><id>tag:,2015-12-25:ola-mundo.html</id><summary type="html">&lt;p&gt;Olá! Este é o primeiro artigo. Então vamos de lorem ipsum!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Germano Corrêa</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-12-25T13:15:00-02:00</updated><entry><title>Olá Mundo!</title><link href="/ola-mundo" rel="alternate"></link><updated>2015-12-25T13:15:00-02:00</updated><author><name>Germano Corrêa</name></author><id>tag:,2015-12-25:ola-mundo</id><summary type="html">&lt;p&gt;Olá! Este é o primeiro artigo. Então vamos de lorem ipsum!&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
 eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
 minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
