@@ -1,0 +1,75 @@
+baseURL: https://germanocorrea.github.io/
+languageCode: pt-BR
+defaultContentLanguage: pt
+title: gege
+theme: cupper-hugo-theme
+googleAnalytics:
+disqusShortname:
+enableGitInfo: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+
+imaging:
+  quality: 99
+
+params:
+  description: Um blog para que eu possa postar qualquer coisa
+  homeMetaContent: Um blog para que eu possa postar qualquer coisa
+  footer: Feito com [gerador de site estático Hugo](https://gohugo.io/). Utilzia [tema Cupper para Hugo](https://github.com/zwbetz-gh/cupper-hugo-theme).
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat: January 2, 2006
+  codePenUser:
+  katex: true
+  hideHeaderLinks: false
+  search: true
+  showThemeSwitcher: true
+
+menu:
+  nav:
+    - name: Blog
+      url: /
+      weight: 1
+    - name: GitHub
+      url: https://github.com/germanocorrea
+      weight: 2
+    - name: Last.fm
+      url: https://www.last.fm/user/gege-bc
+      weight: 3
+    - name: Discogs
+      url: https://www.discogs.com/pt_BR/user/germanobcorrea/collection
+      weight: 4
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
