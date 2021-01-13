@@ -17,3 +17,8 @@ jobs:
           submodules: true
       - name: Build Site
         uses: chabad360/hugo-actions@master
+      - name: Publish build
+        run: |
+          git add .
+          git commit -m "Update build"
+          git push
