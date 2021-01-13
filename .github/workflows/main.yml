@@ -19,6 +19,8 @@ jobs:
         uses: chabad360/hugo-actions@master
       - name: Publish build
         run: |
+          git config --local user.email "germanobruscato@gmail.com"
+          git config --local user.name "Germano Corrêa"
           git add .
           git commit -m "Update build"
           git push
